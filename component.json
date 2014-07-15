@@ -1,0 +1,16 @@
+{
+  "name": "clear-cookies",
+  "repo": "segmentio/clear-cookies",
+  "description": "Clear document cookies",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {
+    "component/cookie": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
