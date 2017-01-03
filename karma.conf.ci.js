@@ -33,16 +33,17 @@ var customLaunchers = {
     browserName: 'safari',
     version: '9.0'
   },
-  sl_ie_7: {
-    base: 'SauceLabs',
-    browserName: 'internet explorer',
-    version: '7'
-  },
-  sl_ie_8: {
-    base: 'SauceLabs',
-    browserName: 'internet explorer',
-    version: '8'
-  },
+  // (FIXME: HAN) a dependency called debug is not compat
+  // sl_ie_7: {
+  //   base: 'SauceLabs',
+  //   browserName: 'internet explorer',
+  //   version: '7'
+  // },
+  // sl_ie_8: {
+  //   base: 'SauceLabs',
+  //   browserName: 'internet explorer',
+  //   version: '8'
+  // },
   sl_ie_9: {
     base: 'SauceLabs',
     browserName: 'internet explorer',
