@@ -39,11 +39,11 @@ var customLaunchers = {
   //   browserName: 'internet explorer',
   //   version: '7'
   // },
-  sl_ie_8: {
-    base: 'SauceLabs',
-    browserName: 'internet explorer',
-    version: '8'
-  },
+  // sl_ie_8: {
+  //   base: 'SauceLabs',
+  //   browserName: 'internet explorer',
+  //   version: '8'
+  // },
   sl_ie_9: {
     base: 'SauceLabs',
     browserName: 'internet explorer',
